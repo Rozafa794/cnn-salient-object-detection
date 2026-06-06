@@ -1,8 +1,9 @@
-# Zhvillimi dhe vlerësimi i një modeli CNN për Salient Object Detection
+# ZHVILLIMI DHE VLERËSIMI I NJË MODELI CNN PËR DETEKTIMIN E OBJEKTEVE TË SPIKATURA NË IMAZHE
+
 
 Ky projekt është realizuar si pjesë e punimit të diplomës me temën:
 
-**“Zhvillimi dhe vlerësimi i një modeli CNN për Salient Object Detection”**
+**“Zhvillimi dhe vlerësimi i një modeli CNN për Detektimin e Objekteve Të spikatura në imazhe”**
 
 Qëllimi i projektit është ndërtimi dhe vlerësimi i një modeli të bazuar në **Convolutional Neural Networks (CNN)**, i cili përdoret për detektimin e objekteve të spikatura në imazhe.
 
